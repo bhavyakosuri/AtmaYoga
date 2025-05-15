@@ -44,7 +44,7 @@ Node.js & npm installed
 Installation
 
 bash
-git clone https://github.com/your-username/yoga-posture-detection.git
+git clone https://github.com/bhavyakosuri/AtmaYoga.git
 cd yoga-posture-detection
 npm install
 npm start
